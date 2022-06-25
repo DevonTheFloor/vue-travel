@@ -1,8 +1,9 @@
-# Vue2 Ttravel app   
+# Vue2 Travel app   
 
 ## Purpose   
-Here's you find the full code for the "Vue router" course on Vues School.   
-[Vue Routerforevery one](https://vueschool.io/courses/vue-router-for-everyone).
+Here's you find the full code for the "Vue router" course on Vue School.   
+[Vue Router for every one](https://vueschool.io/courses/vue-router-for-everyone).   
+Use VueCLI 4 and Vue router 3.
 
 ## Project setup
 ```
